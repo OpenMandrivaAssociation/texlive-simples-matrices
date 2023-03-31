@@ -1,6 +1,6 @@
 Name:		texlive-simples-matrices
 Version:	63802
-Release:	1
+Release:	2
 Summary:	Define matrices by given list of values
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/simples-matrices
