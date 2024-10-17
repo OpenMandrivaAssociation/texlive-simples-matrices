@@ -3,7 +3,7 @@ Version:	63802
 Release:	2
 Summary:	Define matrices by given list of values
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/simples-matrices
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/simples-matrices
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/simples-matrices.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/simples-matrices.doc.r%{version}.tar.xz
